@@ -44,7 +44,7 @@
   <project path="frameworks/av" name="frameworks_av" remote="rr" />
   <project path="frameworks/native" name="frameworks_native" remote="rr" />
   <project path="frameworks/opt/slimrecent" name="frameworks_opt_slimrecent" remote="rr" />
-  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="rr" /> 
+  <!--<project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="rr" />  -->
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="rr" />
   <project path="frameworks/support/lottie" name="android_frameworks_support_lottie" remote="rr" />
 
@@ -60,7 +60,7 @@
   <project path="system/netd" name="android_system_netd" remote="rr" />
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="rr" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="rr" />
-  <project path="packages/services/Telephony" name="packages_services_Telephony" remote="rr" />
+<!-- <project path="packages/services/Telephony" name="packages_services_Telephony" remote="rr" /> -->
   <project path="external/sqlite" name="android_external_sqlite" remote="rr" />
   <project path="external/motorola/faceunlock" name="external_utils" remote="bb" />
   <project path="external/pulse" name="external_pulse" remote="rr" />

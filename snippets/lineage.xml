@@ -47,6 +47,10 @@
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
   <!--<project path="prebuilts/lineage-sdk" name="LineageOS/android_prebuilts_lineage-sdk" clone-depth="1" />-->
   <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" />
+  
+  <!-- For RR -->
+  <project path="packages/services/Telephony" name="LineageOS/android_packages_services_Telephony"  />
+  <project path="frameworks/opt/telephony" name="LineageOS/android_frameworks_opt_telephony"  />
 
   <!-- CodeAurora additions -->
   <project path="external/ant-wireless/ant_native" name="LineageOS/android_external_ant-wireless_ant_native" />
